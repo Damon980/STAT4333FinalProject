@@ -72,16 +72,6 @@ combindDf = combindDf %>%
 
 
 
-
-
-#               catMethod = "categorical", 
-#c(20, 756, 4592, 39658, 36288635) Quantiles for enrollmentSum
-#for (x in splt)
-#countries = tail(strsplit(splt, ',', fixed = TRUE)[[1]],1)
-#tail(strsplit(splt[[4]][1], ',', fixed = TRUE)[[1]],1)
-
-
-
 Contents of app.r:
 
 
